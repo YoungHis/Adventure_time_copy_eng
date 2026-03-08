@@ -1,7 +1,0 @@
-OLD_radiostation_of_truth = {
-	priority = 100
-	allowed = { TAG = OLD }
-	visible = {
-		has_country_flag = OLD_radiostation_of_truth_flag
-	}
-}

@@ -1,5 +1,0 @@
-PVF_our_war = {
-	allowed = { original_tag = PVF }
-	icon = military_operation
-	priority = 100
-}

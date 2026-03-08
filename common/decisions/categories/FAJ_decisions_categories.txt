@@ -1,8 +1,0 @@
-FAJ_danger_for_jake = {
-	allowed = { original_tag = FAJ }
-	
-	priority = 100
-}
-
-FAJ_balance_of_power_category = {
-}
