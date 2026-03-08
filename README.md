@@ -23,9 +23,9 @@ Now any AT fan worldwide can rule the Candy Kingdom without a dictionary in hand
 The mod turns Ooo into an alternate history from 1936 to 1948: Princess Bubblegum builds an empire of science and candy, Finn and Jake fight for freedom, Ice King freezes entire fronts, while the Lich tries to break the whole world through events and focuses.
 
 ### Why a separate English translation?
-Fans from the US, Europe, Latin America, and Asia can jump straight into the game without relying on broken Google Translate.  
-Easier to fix bugs in strings without touching the main Russian repository.  
-The mod's future lies in an international community — more downloads, more feedback, more events featuring Marceline and BMO.
+- Fans from the US, Europe, Latin America, and Asia can jump straight into the game without relying on broken Google Translate.  
+- Easier to fix bugs in strings without touching the main Russian repository.  
+- The mod's future lies in an international community — more downloads, more feedback, more events featuring Marceline and BMO.
 
 This mod is pure love for Adventure Time, so we keep it alive and fun.  
 Mathematical! 🍬🗡️👑🔬
