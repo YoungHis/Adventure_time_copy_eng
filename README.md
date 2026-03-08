@@ -1,4 +1,4 @@
-# Adventure Time (English Localization)🇷🇺
+# Adventure Time (English Localization) 🇷🇺
 
 Этот репозиторий содержит полный английский перевод для мода **Adventure Time** в Hearts of Iron IV.  
 Теперь любой фанат AT по всему миру сможет править Королевством Сластей без словаря в руках.  
@@ -15,7 +15,7 @@
 
 Не забывай ставить звёздочку, если зашло — мотивирует фиксить дальше.
 
-# Adventure Time (English Localization)🇬🇧
+# Adventure Time (English Localization) 🇬🇧
 
 This repository contains the full English translation for the **Adventure Time** mod in Hearts of Iron IV.  
 Now any AT fan worldwide can rule the Candy Kingdom without a dictionary in hand.
