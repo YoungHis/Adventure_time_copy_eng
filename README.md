@@ -46,7 +46,7 @@ Don't forget to star the repo if you like it — it motivates me to keep fixing 
 
 # How to Install 🇺🇸
 1. Subscribe to the main **Adventure Time** mod on Steam Workshop (or grab it from GitHub if it's there).  
-2. Download this English localization patch right here (clone the repo or hit the green ZIP button).  
+2. Download this English localization patch right here (clone the repo or download ZIP archive).  
 3. Unzip everything straight into your main mod folder — overwrite when it asks.  
    Path you’re looking for → `Documents\Paradox Interactive\Hearts of Iron IV\mod\[main_mod_folder]\localization\english`  
    (no english folder yet? Just make one, it’s quick)  
