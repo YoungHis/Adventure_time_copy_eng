@@ -69,3 +69,5 @@ replace_path="localisation/russian/strategic_region_names_l_russian.yml"
 replace_path="localisation/russian/victory_points_l_russian.yml"
 name="adventure_time_copy"
 supported_version="1.17.*"
+
+## path="C:/Users/user/Documents/Paradox Interactive/Hearts of Iron IV/mod/adventure_time_copy"
