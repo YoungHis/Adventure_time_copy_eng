@@ -36,10 +36,10 @@ Don't forget to star the repo if you like it — it motivates me to keep fixing 
 https://github.com/TMD-STALKER/adventure_time_copy - оригинальный мод
 
 # To-Do✍️
-Descriptor
-Перевод файлов
-Страничка в Steam
-Инструкция по установке
+- Descriptor
+- Перевод файлов
+- Страничка в Steam
+- Инструкция по установке
 
 
 
