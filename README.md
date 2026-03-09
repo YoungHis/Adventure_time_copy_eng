@@ -32,26 +32,16 @@ Mathematical! 🍬🗡️👑🔬
 
 Don't forget to star the repo if you like it — it motivates me to keep fixing stuff.
 
-# Как установить 🇷🇺
+# Мод разработан с опорой на
+https://github.com/TMD-STALKER/adventure_time_copy - оригинальный мод
 
-1. Подпишись на основной мод **Adventure Time** в Steam Workshop (или скачай с GitHub, если есть).  
-2. Скачай этот патч с английской локализацией из репозитория (клонируй или скачай ZIP).  
-3. Распакуй содержимое (папка localization/english и .yml файлы) в папку основного мода. Замени файлы, если спросят.  
-   Путь: Documents\Paradox Interactive\Hearts of Iron IV\mod\[папка_основного_мода]\localization\english  
-   (Если папки english нет — создай её.)  
-4. Запусти HOI4 → в лаунчере включи основной мод Adventure Time (патч подгрузится автоматически как оверрайд).  
-5. Начни новую игру → выбери Королевство Сластей → наслаждайся алгебраическим хаосом на английском! 🍭  
+# To-Do✍️
+Descriptor
+Перевод файлов
+Страничка в Steam
+Инструкция по установке
 
-Математично установлено! 🚀
 
-# How to Install 🇺🇸
-1. Subscribe to the main **Adventure Time** mod on Steam Workshop (or grab it from GitHub if it's there).  
-2. Download this English localization patch right here (clone the repo or download ZIP archive).  
-3. Unzip everything straight into your main mod folder — overwrite when it asks.  
-   Path you’re looking for → `Documents\Paradox Interactive\Hearts of Iron IV\mod\[main_mod_folder]\localization\english`  
-   (no english folder yet? Just make one, it’s quick)  
-4. Launch HOI4 → open the launcher → tick the main Adventure Time mod.  
-   The patch sneaks in automatically as an override. No extra checkboxes needed.  
-5. Start a fresh game → pick the Candy Kingdom → dive into algebraic chaos in English! 🍬🗡️👑  
 
-Mathematical installation complete! 🚀✨  
+
+
