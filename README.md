@@ -35,6 +35,7 @@ Don't forget to star the repo if you like it — it motivates me to keep fixing 
 # Мод разработан с опорой на
 - https://github.com/TMD-STALKER/adventure_time_copy - оригинальный мод
 - https://steamcommunity.com/sharedfiles/filedetails/?id=3626960708 - страничка оригинальной модификации
+- https://t.me/Adventure_time_HOI4_mod - канал оригинального мода в тг
 
 # To-Do✍️
 - Descriptor
