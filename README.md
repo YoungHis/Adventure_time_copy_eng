@@ -40,10 +40,12 @@ Don't forget to star the repo if you like it — it motivates me to keep fixing 
 
 # To-Do✍️
 - Descriptor
-- Перевод файлов
+- Перевод файлов стран
 - Страничка в Steam
 - Инструкция по установке
 - Соцсети (тг,возможно дс)
+
+# Miscellaneous
 
 
 
